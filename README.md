@@ -2,7 +2,7 @@
 
 ## Description
 
-Create a custom timer with ii's stupid mod menu via vencord customrpc
+get a cleaner profile
 
 ## Getting Started
 
